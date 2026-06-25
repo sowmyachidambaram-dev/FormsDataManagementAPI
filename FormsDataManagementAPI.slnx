@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FormsDataManagementAPI.Tests/FormsDataManagementAPI.Tests.csproj" />
+  <Project Path="FormsDataManagementAPI/FormsDataManagementAPI.csproj" />
+  <Project Path="TokenGenerator/TokenGenerator.csproj" />
+</Solution>
