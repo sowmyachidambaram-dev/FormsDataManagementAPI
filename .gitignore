@@ -1,1 +1,7 @@
-/.claude
+/FormsDataManagementAPI/obj
+/FormsDataManagementAPI/[Bb]in/
+/FormsDataManagementAPI/Properties/launchSettings.json
+/FormsDataManagementAPI.Tests/obj
+/FormsDataManagementAPI.Tests/[Bb]in/
+/TokenGenerator/obj
+/TokenGenerator/[Bb]in/

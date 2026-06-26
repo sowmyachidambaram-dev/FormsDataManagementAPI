@@ -9,11 +9,12 @@ var key = "YourActualSecretKeyThatIsAtLeast32Characters!"; // must match appsett
 var issuer = "FormsDataManagementAPI";
 var audience = "FormsDataManagementAPI";
 
+//These can be obtained from an json file.Ideally this will be generated through the login section
 var claims = new[]
 {
-    new Claim(ClaimTypes.NameIdentifier, "Sowmya"),
-    new Claim(ClaimTypes.Name, "Chidambaram"),
-    new Claim(ClaimTypes.Role, "Admin") // adjust as needed
+    new Claim(ClaimTypes.NameIdentifier, "name-identifier"),
+    new Claim(ClaimTypes.Name, "name"),
+    new Claim(ClaimTypes.Role, "role") // adjust as needed
 };
 
 var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(key));

@@ -22,3 +22,4 @@
 /Users/sowmyachidambaram/VS Code Repos/FormsDataManagementAPI/TokenGenerator/obj/Debug/net10.0/TokenGenerator.pdb
 /Users/sowmyachidambaram/VS Code Repos/FormsDataManagementAPI/TokenGenerator/obj/Debug/net10.0/TokenGenerator.genruntimeconfig.cache
 /Users/sowmyachidambaram/VS Code Repos/FormsDataManagementAPI/TokenGenerator/obj/Debug/net10.0/ref/TokenGenerator.dll
+/Users/sowmyachidambaram/VS Code Repos/FormsDataManagementAPI/TokenGenerator/obj/Debug/net10.0/TokenGenerator.sourcelink.json

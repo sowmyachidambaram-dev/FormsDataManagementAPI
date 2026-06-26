@@ -148,3 +148,4 @@
 /Users/sowmyachidambaram/VS Code Repos/FormsDataManagementAPI/FormsDataManagementAPI/obj/Debug/net8.0/FormsDataManagementAPI.pdb
 /Users/sowmyachidambaram/VS Code Repos/FormsDataManagementAPI/FormsDataManagementAPI/obj/Debug/net8.0/FormsDataManagementAPI.genruntimeconfig.cache
 /Users/sowmyachidambaram/VS Code Repos/FormsDataManagementAPI/FormsDataManagementAPI/obj/Debug/net8.0/ref/FormsDataManagementAPI.dll
+/Users/sowmyachidambaram/VS Code Repos/FormsDataManagementAPI/FormsDataManagementAPI/obj/Debug/net8.0/FormsDataManagementAPI.sourcelink.json
