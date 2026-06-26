@@ -1,4 +1,4 @@
-FormsDataManagementAPI
+---FormsDataManagementAPI---
 
 
 Description
@@ -113,8 +113,8 @@ public record CreateFormRequest(/* Define properties */);
 public record UpdateFormRequest(/* Define properties */);
 public record FormListQuery(int Page = 1, int PageSize = 20, string? SubjectFilter = null);
 
-FormsDataManagementAPI.Tests
+---FormsDataManagementAPI.Tests---
 This sectiion has unit tests for Repository, Service , Validator classes. It has integration test to test controller.
 
-TokenGenerator
+---TokenGenerator----
 It is a console project to generate a JWT token by feeding in user information. Ideally the token will get geenerated when client will first send request to server.
