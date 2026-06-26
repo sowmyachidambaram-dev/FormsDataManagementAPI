@@ -4,6 +4,8 @@
 Description
 Design and implement a REST API endpoint for storing and retrieving form submission data. The solution should demonstrate proper API design, database interaction, validation, error handling, and security considerations appropriate for a production system.
 
+appSettings.json has placeholders for DB Conn String which can be filled in from Azure KeyVaults when the pipilines run for production or other environments accordingly.
+
 
 Problem
 Given the following data model:
