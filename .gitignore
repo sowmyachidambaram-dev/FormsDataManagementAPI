@@ -7,3 +7,7 @@
 
 # Ignore local VS Code configurations
 .vscode/
+
+# Ignore macOS folder metadata files
+.DS_Store
+**/.DS_Store
