@@ -4,3 +4,6 @@
 
 # Exclude local launch settings for any API or Web project
 **/Properties/launchSettings.json
+
+# Ignore local VS Code configurations
+.vscode/
